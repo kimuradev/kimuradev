@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/kimuradev/kimuradev/master/github_header.jpg?token=ABBSJMDRPZDVLUXPWC2EMYC7FNDUG)
+![header](https://github.com/kimuradev/kimuradev/blob/master/github_header.jpg)
 
 <center>
 <table>
