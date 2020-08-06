@@ -1,4 +1,25 @@
-### Hi there 👋
+![header](https://raw.githubusercontent.com/kimuradev/kimuradev/master/github_header.jpg?token=ABBSJMDRPZDVLUXPWC2EMYC7FNDUG)
+
+<center>
+<table>
+  <tr style="border: none">
+      <td style="border: none"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimuradev&layout=compact&hide=html&theme=vue" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=kimuradev&theme=vue" /></td>
+  </tr>   
+</table>
+</center>
+
+<h4 align="left">
+  Hey, it's me. Kimura! 👋
+</h4>
+<p align="left">
+  I've been working more than 10 years as software developer with a focus on web and mobile development. I really love technology and I believe we can change the world with this.
+</p>
+<h5 align="left">
+  📌  From <b>Curitiba</b>, <b>Paraná</b>, <b>Brazil</b>  
+</h5>
+
+<h5 align="left">💼 Currently working as Front-end Developer at Paraná Banco </h5>
 
 <!--
 **kimuradev/kimuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
