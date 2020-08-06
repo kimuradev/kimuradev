@@ -2,9 +2,9 @@
 
 <center>
 <table>
-  <tr style="border: none">
-      <td style="border: none"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimuradev&layout=compact&hide=html&theme=vue" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=kimuradev&theme=vue" /></td>
+  <tr style="border: none;">
+      <td style="border: none;"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimuradev&layout=compact&hide=html&theme=vue" /></td>
+      <td style="border: none;"><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=kimuradev&theme=vue" /></td>
   </tr>   
 </table>
 </center>
