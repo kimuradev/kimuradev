@@ -19,7 +19,7 @@
   📌  From <b>Curitiba</b>, <b>Paraná</b>, <b>Brazil</b>  
 </h5>
 
-<h5 align="left">💼 Currently working as Front-end Developer at Paraná Banco </h5>
+<h5 align="left">💼 Currently working as Front-end Developer at BOSCH </h5>
 
 <!--
 **kimuradev/kimuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
