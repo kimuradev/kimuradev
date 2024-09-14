@@ -21,6 +21,8 @@
 
 <h5 align="left">💼 Currently working as Front-end Developer at Skunexus LLC </h5>
 
+<h5 align="left">🌍 See more at https://kimuradev.com/ </h5>
+
 <!--
 **kimuradev/kimuradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
