@@ -19,8 +19,6 @@
   📌  From <b>Curitiba</b>, <b>Paraná</b>, <b>Brazil</b>  
 </h5>
 
-<h5 align="left">💼 Currently working as Front-end Developer at Skunexus LLC </h5>
-
 <h5 align="left">🌍 See more at https://kimuradev.com/ </h5>
 
 <!--
